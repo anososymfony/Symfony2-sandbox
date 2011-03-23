@@ -1,0 +1,3 @@
+
+Zenstruck:
+    resource: "@ZenstruckBundle/Resources/config/routing.yml"

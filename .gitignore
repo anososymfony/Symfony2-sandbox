@@ -1,0 +1,4 @@
+app/cache/*
+app/logs/*
+app/phpunit.xml
+web/bundles/*

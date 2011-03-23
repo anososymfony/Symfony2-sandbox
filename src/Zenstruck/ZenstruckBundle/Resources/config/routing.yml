@@ -1,0 +1,8 @@
+#homepage:
+#    pattern:  /
+#    defaults: { _controller: ZenstruckBundle:Main:welcome }
+
+Zenstruck:    
+    resource: "@ZenstruckBundle/Controller/MainController.php"
+    type: annotation
+
